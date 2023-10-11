@@ -11,7 +11,7 @@ resources:
       name: nrayner73/PowerAppsTestAutomation
       ref: master
       # Name of the GitHub OAuth ADO Service Connection
-      endpoint: https://github.com/nrayner73/PowerAppsTestAutomation
+      endpoint: nrayner73
 
 parameters:
  - name: image
