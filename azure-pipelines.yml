@@ -8,7 +8,7 @@ resources:
       type: github
       # GitHub Repo(e.g. <FORK>/PowerAppsTestAutomation)
       # Recommended to Fork or Duplicate if custom auth flows are required
-      name: microsoft/PowerAppsTestAutomation
+      name: nrayner73/PowerAppsTestAutomation
       ref: master
       # Name of the GitHub OAuth ADO Service Connection
       endpoint: <ADO GitHub OAuth Service Connection Name>
